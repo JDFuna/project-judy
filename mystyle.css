@@ -1,0 +1,17 @@
+.login-box img {
+    height: 450px;
+    position: absolute;
+    top: -8%;
+    right: 70px;
+}
+
+body {
+    background: url(./images/home-bg1.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+    height: 100vh;
+}
+.card {
+    display: flex;
+    justify-content: center;
+}
